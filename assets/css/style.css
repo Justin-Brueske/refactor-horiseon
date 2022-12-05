@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Styling */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -65,6 +67,8 @@ p {
     margin-left: 25px;
 }
 
+/* Article Styling */
+
 .content {
     width: 75%;
     display: inline-block;
@@ -88,6 +92,8 @@ p {
 .content img {
     max-height: 200px;
 }
+
+/* Aside Styling */
 
 .benefits {
     margin-right: 20px;
@@ -115,6 +121,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer Styling */
 
 .footer {
     padding: 30px;
