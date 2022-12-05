@@ -11,6 +11,9 @@ This was a project to refactor the code for the Horiseon homepage. Cleaned up th
 
 ## Links
 
+[Code Repository](https://github.com/Justin-Brueske/refactor-horiseon)
+
+[Deployed Site](https://justin-brueske.github.io/refactor-horiseon/)
 
 ## Usage
 
